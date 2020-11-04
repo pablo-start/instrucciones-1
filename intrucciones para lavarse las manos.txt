@@ -1,4 +1,4 @@
-intrucciones para lavarse las manos
+Intrucciones para lavarse las manos
     
     1.Mójese las manos con agua corriente limpia (tibia o fría), cierre el grifo y enjabónese las manos.
 
@@ -9,3 +9,5 @@ intrucciones para lavarse las manos
     4.Enjuáguese bien las manos con agua corriente limpia.
 
     5.Séqueselas con una toalla limpia o al aire.
+    
+    6.Secar la toalla.
